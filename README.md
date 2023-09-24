@@ -1,3 +1,3 @@
 # first-demo
 first repository
-author:shaurabh
+Author:shaurabh
